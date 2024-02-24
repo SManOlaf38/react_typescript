@@ -7,7 +7,7 @@ Cheatsheets for experienced React developers getting started with TypeScript
 <a href="https://github.com/typescript-cheatsheets/react/issues/81">
   <img
     height="90"
-    width="90"
+    width="91"
     alt="react + ts logo"
     src="https://user-images.githubusercontent.com/84442212/194379444-02e5ec69-5e6c-4100-bd7a-c31d628af29c.png"
     align="left"
